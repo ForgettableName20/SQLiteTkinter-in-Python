@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonDatabase", "PythonDatabase\PythonDatabase.pyproj", "{F2D4C51D-094F-4044-AF79-0289EBE2815D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2D4C51D-094F-4044-AF79-0289EBE2815D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2D4C51D-094F-4044-AF79-0289EBE2815D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B8D8A03-53E0-479B-9338-7628537F7796}
+	EndGlobalSection
+EndGlobal
